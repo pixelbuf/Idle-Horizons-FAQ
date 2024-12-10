@@ -71,7 +71,7 @@ A: The system follows these steps to assign a new leader:
 - If there are no officers, any guild member can become leader through random selection
 
 **Q: What happens if our guild leader is inactive?**  
-A: Guild leaders inactive for more than 2 weeks can be requested to be manually removed by a member of PixelBuf support. This is currently a manual process and will take multiple days. Please reach out in the discord.
+A: Guild leaders inactive for more than 2 weeks can be requested to be manually removed by a member of PixelBuf support. This is currently a manual process and will take multiple days so please be patient. Please reach out to @Mod in the discord.
 
 ### Arena System
 **Q: How does the trophy system work in Arena battles?**  
