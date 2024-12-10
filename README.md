@@ -1,12 +1,36 @@
+<div align="center">
+ <img src="app_logo.png" width="200" alt="Idle Horizons Logo">
+</div>
+
 # Idle Horizons FAQ
-- Join our Discord: https://discord.gg/idlehorizons
-- Official Reddit Community: [/r/IdleHorizons](https://www.reddit.com/r/IdleHorizons)
 
-## Available on the App and Play Store
-- iOS: https://apps.apple.com/us/app/idle-horizons/id6737143829
-- Android: https://play.google.com/store/apps/details?id=com.pixelbuf.idlehorizons
+## Join Our Growing Community
 
-# Game FAQ
+<div>
+ <a href="https://discord.gg/idlehorizons">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord">
+ </a>
+</div>
+
+<div>
+ <a href="https://www.reddit.com/r/IdleHorizons">
+   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Community">
+ </a>
+</div>
+
+## Play Now!
+
+<div>
+ <a href="https://apps.apple.com/us/app/idle-horizons/id6737143829">
+   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store">
+ </a>
+</div>
+
+<div>
+ <a href="https://play.google.com/store/apps/details?id=com.pixelbuf.idlehorizons">
+   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store">
+ </a>
+</div>
 
 ## Core Game Systems
 
