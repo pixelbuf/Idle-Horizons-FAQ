@@ -1,5 +1,7 @@
 <div align="center">
- <img src="app_logo.png" width="200" alt="Idle Horizons Logo">
+ <a href="https://idlehorizons.app.link/githubfaq">
+  <img src="app_logo.png" width="200" alt="Idle Horizons Logo">
+ </a>
 </div>
 
 # Idle Horizons FAQ
