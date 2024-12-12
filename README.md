@@ -34,6 +34,10 @@
  </a>
 </div>
 
+## Tier List Maker
+
+https://tiermaker.com/create/idle-horizons-hero-tier-list-17710338
+
 ## Core Game Systems
 
 ### Resources
