@@ -46,16 +46,17 @@ A: No, this is intended behavior. The cap (like 100/100) only limits natural reg
 
 ### Charms System
 **Q: What are charms?**  
-A: Charms are a new assessory for heroes that comes with their own unique ability. Each hero can equip one charm, unlocked at Prestige 5.
+A: Charms are a new accessory for heroes that provide a unique ability and stat bonuses. Each hero can equip one charm, which becomes available to them upon reaching Prestige 5.  
 
 **Q: How do charm stats work?**  
-A: Charms roll multiple stats, with the number of stats depending on the charm's rarity. Each stat roll also has its own rarity, which affects its effectiveness.
+A: Charms feature multiple stats, with the number and strength of these stats determined by the charm's rarity. Each stat roll also has its own rarity, influencing its effectiveness and potential impact on gameplay.  
 
 **Q: Can I use the same charm on multiple heroes?**  
 A: No, each charm can only be equipped on one hero at a time.  
 
 **Q: How do I obtain charms?**  
-A: Charms can be acquired through the Challenge mode, events, or special rewards. Keep an eye on in-game announcements for opportunities to collect and upgrade your charms!
+A: Charms can be obtained by trading an Elemental Scroll (Ignition, Chaos, Nature, or Tempest) in the Town's shop. Elemental Scrolls are purchased using Books of Divination, which are earned through harder Challenge Mode rewards.  
+
 
 ### Combat Mechanics
 **Q: What is the difference between Armor and Resist?**  
