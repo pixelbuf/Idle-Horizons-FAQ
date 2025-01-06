@@ -44,6 +44,19 @@ https://tiermaker.com/create/idle-horizons-hero-tier-list-17710338
 **Q: My Stamina/Tickets are above the cap but still regenerating. Is this a bug?**  
 A: No, this is intended behavior. The cap (like 100/100) only limits natural regeneration - it's the maximum amount that will regenerate over time. You can exceed this limit through other means like rewards, items, or event bonuses. For example, if you have 100/100 stamina and collect a +50 stamina reward, you'll have 150/100 stamina.
 
+### Charms System
+**Q: What are charms?**  
+A: Charms are a new assessory for heroes that comes with their own unique ability. Each hero can equip one charm, unlocked at Prestige 5.
+
+**Q: How do charm stats work?**  
+A: Charms roll multiple stats, with the number of stats depending on the charm's rarity. Each stat roll also has its own rarity, which affects its effectiveness.
+
+**Q: Can I use the same charm on multiple heroes?**  
+A: No, each charm can only be equipped on one hero at a time.  
+
+**Q: How do I obtain charms?**  
+A: Charms can be acquired through the Challenge mode, events, or special rewards. Keep an eye on in-game announcements for opportunities to collect and upgrade your charms!
+
 ### Combat Mechanics
 **Q: What is the difference between Armor and Resist?**  
 A: Armor reduces physical damage (shown as red bar after fights), while Resist reduces magical damage (shown as blue bar after fights).
