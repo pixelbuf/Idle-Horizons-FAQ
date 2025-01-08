@@ -68,6 +68,11 @@ A: Each basic attack performed by a hero generates 10 mana. Additionally, every 
 **Q: How does the crit system work? Can abilities crit?**  
 A: All hero basic attacks can crit. Abilities are case by case, but generally magic based abilities don't crit and physical abilities generally crit if it's in the form of an individual attack (e.g. Prince)
 
+**Q: How does Ranged unit attack range work?**  
+A: Attached Diagram:
+
+![attackrange.png](https://i.imgur.com/cg3Cl00.png)
+
 ### Heroes & Items
 **Q: What is the maximum Hero level?**  
 A: 100
