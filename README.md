@@ -69,9 +69,9 @@ A: Each basic attack performed by a hero generates 10 mana. Additionally, every 
 A: All hero basic attacks can crit. Abilities are case by case, but generally magic based abilities don't crit and physical abilities generally crit if it's in the form of an individual attack (e.g. Prince)
 
 **Q: How does Ranged unit attack targeting work?**  
-A: All units have their own "Attack Range". Refer to Attached Diagram. The target shortest distance to the unit will be selected for attacking. 
+A: All units have their own "Attack Range". Refer to Attached Diagram. The target shortest distance to the unit will be selected for attacking. Within that range, the closest target will be chosen for attacking. If there are multiple targets with identical distance, a random unit will be chosen.
 
-![attackrange.png](https://i.imgur.com/cg3Cl00.png)
+![attackrange.png](https://i.imgur.com/pBMq4vl.png)
 
 ### Heroes & Items
 **Q: What is the maximum Hero level?**  
